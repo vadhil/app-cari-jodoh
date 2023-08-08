@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+main {
+  background-image: url(/taaruf.png);
+}
+.main {
+  display: grid;
+}
+
+label {
+  size: 16px;
+  font-weight: 400;
+  line-height: 21.82px;
+}
+
+input {
+  border: 1px;
+  border-color: #939393;
+}
